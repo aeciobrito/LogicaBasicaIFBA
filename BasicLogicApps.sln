@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EntradaESaida", "Entrada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Variaveis", "Variaveis\02-Variaveis.csproj", "{93719AB1-7977-431A-8443-08592E01F31D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-CondicionaisIF-Else", "CondicionaisBasico\04-CondicionaisIF-Else.csproj", "{FDF95FC9-07C9-47CA-9C7A-ED258EF9E5AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-CondicionaisIF-Else", "CondicionaisBasico\05-CondicionaisIF-Else.csproj", "{FDF95FC9-07C9-47CA-9C7A-ED258EF9E5AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-CondicionaisSwitch", "CondicionaisSwitch\06-CondicionaisSwitch.csproj", "{E37C6E7E-DBFB-432A-B332-25A9128B108E}"
 EndProject
@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Vetores", "Vetores\12-Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Matrizes", "Matrizes\13-Matrizes.csproj", "{EF571D26-A596-4DD5-99FA-EE6A9CE1BAD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-OperadoresLogicos", "Operadores\05-OperadoresLogicos.csproj", "{BF0E7252-CED8-4E20-AC30-7AF9C726997F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-OperadoresLogicos", "Operadores\04-OperadoresLogicos.csproj", "{BF0E7252-CED8-4E20-AC30-7AF9C726997F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-OperadoresAritimeticos", "OperadoresAritimeticos\03-OperadoresAritimeticos.csproj", "{EBF38CAC-B027-463E-8594-9B80BEB677C0}"
 EndProject
